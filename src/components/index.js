@@ -16,8 +16,8 @@ export {
   Recap,
   Letter,
   Closing,
-  Picture,
   Music,
-  Carousel,
-  Message
-}
+  Picture,
+  Message,
+  Carousel
+};

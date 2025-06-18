@@ -6,25 +6,25 @@ const config = {
   */
 
   // 🔐 Passcode Page
-  correctPasscode: "0000", // Change this to any 4-digit code (the passcode for access)
+  correctPasscode: "0518", // Change this to any 4-digit code (the passcode for access)
   passcodeTitle: "Enter Passcode", // Title displayed on the passcode entry page
   successMessage: "Yayy!! :)", // Message shown upon successful passcode entry
   redirectMessage: "Redirecting...", // Message displayed while redirecting after success
-  incorrectPasscodeMessage: "Incorrect passcode, hint: our anniversary date!", // Message shown for incorrect passcode
+  incorrectPasscodeMessage: "Incorrect passcode, hint: a month ago today lmfao", // Message shown for incorrect passcode
   cancelButtonText: "Cancel", // Text for the cancel button
 
   // 🔍 Question Page
   searchPlaceholder: "Search Google or type a URL", // Placeholder text in the search input
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
-    "Why is my bf so cute?", // Example trending search query
-    "Why does Rheina love him more?", // Another example query
-    `Rheina's birthdate (coz her bf forgets)`, // A personalized trending search
+    "Quien es el nalgon mas guapo?", // Example trending search query
+    "Who twisted their ankle at their game?", // Another example query
+    `Quien te quiere un chingo `, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
   // ⏳ Timer Page
-  anniversaryDate: "2024-10-18", // 📅 Set your anniversary date here (used for the timer)
+  anniversaryDate: "2025-05-18", // 📅 Set your anniversary date here (used for the timer)
   timerTitle: "We've been together for:", // Title displayed on the timer page
   timerMessage: "... and still counting <3", // Message shown alongside the timer
   timeUnits: {
@@ -48,77 +48,48 @@ const config = {
   musicTitle: "Songs that remind me of you", // Title for the music page
   musicGallery: [
     {
-      title: "Heavenly", // Title of the song
-      artist: "Cigarettes After Sex", // Artist of the song
+      title: "Pensandote", // Title of the song
+      artist: "Rauwwww", // Artist of the song
       left: "5%", // Positioning on the page
       top: "5%", // Positioning on the page
     },
     {
-      title: "The Boy Is Mine",
-      artist: "Brandy, Monica",
+      title: "Amar De Nuevo",
+      artist: "Rauwww",
       left: "40%",
       top: "15%",
     },
     {
-      title: "Die With A Smile",
-      artist: "Lady Gaga, Bruno Mars",
+      title: "Nobody New",
+      artist: "The Marias",
       left: "15%",
       top: "40%",
     },
-    {
-      title: "Last Night on Earth",
-      artist: "Green Day",
-      left: "30%",
-      top: "75%",
-    },
-    {
-      title: "American Boy",
-      artist: "Estelle, Kanye West",
-      left: "5%",
-      top: "65%",
-    },
-    {
-      title: "Sparks",
-      artist: "Coldplay",
-      left: "25%",
-      top: "90%",
-    },
-    {
-      title: "Kiss Me Thru The Phone",
-      artist: "Soulja Boy, Sammie",
-      left: "35%",
-      top: "50%",
-    },
-    {
-      title: "Sunsetz",
-      artist: "Cigarettes After Sex",
-      left: "10%",
-      top: "25%",
-    },
+  
   ],
 
     // 📝 Message Recap Page
-    messageTitle: "Our Messages", // Title for the messages recap page
+    messageTitle: "My favorite memories of us", // Title for the messages recap page
     messageGallery: [
-      { title: "September 3, 2024", description: "A beautiful day to remember." }, // Message entry
-      { title: "October 5, 2024", description: "Cherishing moments together." },
-      { title: "December 25, 2024", description: "Christmas with love ❤️" },
+      { title: "Who knows what day", description: "LESSGO KAPPAS." }, // Message entry
+      { title: "April, 2020", description: "First time meeting you lol." },
+      { title: "Who knows what day", description: "Let's go kappas (i added this to be funny, sorry)" },
     ],
   
     // 📸 Picture Recap Page
     pictureTitle: "Our Pictures", // Title for the pictures recap page
     pictureGallery: [
-      { title: "January 1, 2024", description: "New Year's Celebration 🎉" }, // Picture entry
-      { title: "February 14, 2024", description: "Valentine's Day 💕" },
-      { title: "March 10, 2024", description: "Beach trip memories 🏖️" },
+      { title: "May 24, 2025", description: "Juledi's Wedding! My family loveedddd you. Got my cousins asking if you have any single uncles smh." }, // Picture entry
+      { title: "November 24, 2022", description: "First time snowboarding with you. You really let me look like a jerry with my beanie under my helmet." },
+      { title: "May 28, 2025", description: "Universal Studios! First theme park with you! No mummy ride for me smh." },
     ],
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Hi, I love you so much💖", // Message displayed on the love letter page
+  loveLetterMessage: "Oh hey, my sexy, athletic, nonchalant dreadhead with a lavadero. ", // Message displayed on the love letter page
 
   // 🎇 Closing Page
-  closingMessage: "Thank you for everything, my love! 💖 Wishing us many more wonderful years together.", // Closing message displayed
+  closingMessage: "Thank you for everything, You make me so happy. I know this is corny but the best way I can express how much you mean to me is by spending hours trying to code and edit this freaking app lol. I love you, I hope we continue spending life together. This month passed by super fast, can't wait to be old and wrinkly with you. I'd still throw it back for you at 90.", // Closing message displayed
 
   /* 
   ████████████████████████████████████████
