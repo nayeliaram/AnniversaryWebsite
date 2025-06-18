@@ -17,9 +17,9 @@ const config = {
   searchPlaceholder: "Search Google or type a URL", // Placeholder text in the search input
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
-    "Quien es el nalgon mas guapo?", // Example trending search query
+    "Who is my favorite natural curly head?", // Example trending search query
     "Who twisted their ankle at their game?", // Another example query
-    `Quien te quiere un chingo `, // A personalized trending search
+    `Quien te quiere? `, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
@@ -86,7 +86,7 @@ const config = {
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Oh hey, my sexy, athletic, nonchalant dreadhead with a lavadero. ", // Message displayed on the love letter page
+  loveLetterMessage: "Oh hey, my handsome, athletic, and sweet novio. ", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for everything, You make me so happy. I know this is corny but the best way I can express how much you mean to me is by spending hours trying to code and edit this freaking app lol. I love you, I hope we continue spending life together. This month passed by super fast, can't wait to be old and wrinkly with you. I'd still throw it back for you at 90.", // Closing message displayed
